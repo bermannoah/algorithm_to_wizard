@@ -2,7 +2,9 @@
     "manifest_version": 2,
     "name": "Algorithm to Wizard",
     "description": "Just another find and replace: Algorithm to Wizard",
-    "version": "1.0",
+    "version": "1.1",
+    "permissions": ["tab"],
+    "short_name": "Algorithm to Wizard",
     "content_scripts": [
         {
             "matches": [
